@@ -12,3 +12,58 @@ Suppose our goal is to generate profits through stock trading while strictly avo
 Our primary focus is on maximizing true positives, which represent occasions when the algorithm correctly predicts price increases. Therefore, we will evaluate the algorithm's performance using precision as our chosen error metric, calculated as true positives divided by the sum of false positives and true positives. This approach ensures that we minimize potential losses associated with false positives—instances where we purchase stock, but the price actually decreases.
 
 In pursuing this strategy, we acknowledge that we may experience a significant number of false negatives—days when the algorithm predicts price declines, yet prices rise. However, our priority is risk mitigation over profit maximization.
+
+## 3 - Content
+
+1 - Importing Libraries
+
+2 - Loading Data
+
+3 - Data Visualization
+
+4 - Preparing Data
+
+5 - Spliting Data
+
+6 - Training a Machine Learning Models
+    
+    A) - RandomForestClassifier
+
+    B) - KNN Model
+    
+    C) QDA
+  
+7 - Validating Models
+
+8 - Creating a Backtesting Engine
+
+9 - Adding More Predictors
+
+10 - Models Performance
+
+12) - Saving Models
+
+13) - Results
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
