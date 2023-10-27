@@ -41,9 +41,9 @@ In pursuing this strategy, we acknowledge that we may experience a significant n
 
 10 - Models Performance
 
-12) - Saving Models
+12 - Saving Models
 
-13) - Results
+13 - Results
 
 
 
